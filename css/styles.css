@@ -1,0 +1,19 @@
+.navbar-personalizado {
+    background-color: black !important;
+    margin-bottom: 2em;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.foto {
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
+    text-align: center;
+}
