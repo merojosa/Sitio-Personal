@@ -16,3 +16,13 @@
 .titulo {
     text-align: center;
 }
+
+footer {
+    /*Centrar el texto horizontal y verticalmente*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: lightslategray;
+    height: 100px;
+}
