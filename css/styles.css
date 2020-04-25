@@ -50,21 +50,21 @@ footer > div {
     color: white;
 }
 
-.seccion-tecnologia {
+.seccion-morado {
     background-color: #9A7F8B;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.seccion-actuacion {
+.seccion-celeste {
     background-color: #8DAFCE;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.seccion-escritura {
+.seccion-morado-oscuro {
     background-color: #674D59;
     text-align: center;
     padding-top: 50px;

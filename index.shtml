@@ -14,7 +14,7 @@
 <div class="container">
 
 	<div class="row">
-		<div class="col seccion-tecnologia">
+		<div class="col seccion-morado">
 				<h2 class="titulo-seccion">Technology</h2>
 
 				<img src="media/github.png" width="30%">
@@ -24,7 +24,7 @@
 	</div>
 	
 	<div class="row">
-		<div class="col seccion-actuacion">
+		<div class="col seccion-celeste">
 			<h2 class="titulo-seccion">Acting</h2>
 
 			<img src="media/escena.jpg" width="25%">
@@ -35,7 +35,7 @@
 	</div>
 
 	<div class="row">
-		<div class="col seccion-escritura">
+		<div class="col seccion-morado-oscuro">
 			<h2 class="titulo-seccion">Writing</h2>
 
 			<img src="media/portada-guion.PNG" width="50%">

@@ -1,3 +1,22 @@
 <!--#include virtual="/includes/top.shtml" -->
 
+
+<div class="container">
+
+	<div class="row">
+		<div class="col seccion-celeste">
+            <h2 class="titulo-seccion">One year</h2>
+
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col seccion-morado">
+            <h2 class="titulo-seccion">Five years</h2>
+
+		</div>
+	</div>
+</div>
+
+
 <!--#include virtual="/includes/bottom.shtml" -->
