@@ -1,5 +1,28 @@
 <!--#include virtual="/includes/top.shtml" -->
 
+<section class="seccion-about">
+    <h1>About this site</h1>
 
+    <p>
+        The purpose of this website is to let you know a litte more about me. The idea is to
+        show you that I'm not only with computers... There are more stuff around me.
+    </p>
+
+    <p>
+        This site was made with pure html and css. Server Sides Includes and SASS were used to have
+        a better maintainability.
+    </p>
+    
+    <p>
+        PS: "Show, don't tell" is a piece of advice that every amateur writer receives. 
+        The point is to show actions and emotions rather than tell what is happening. Then, 
+        let the readers interpret what they see.
+    </p>
+
+    <p>
+        "Carlos sat and cried when he received the letter" > "James feels terrible when he realizes
+        Yuliana didn't love him"
+    </p>
+</section>
 
 <!--#include virtual="/includes/bottom.shtml" -->
