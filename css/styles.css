@@ -75,3 +75,16 @@ footer > div {
     text-align: center;
     margin-bottom: 40px;
 }
+
+.mail-icon {
+    fill: white;
+}
+
+.seccion-contacto {
+    text-align: center;
+}
+
+.correo-contacto {
+    font-size: 24px;
+    margin-bottom: 2em;
+}
