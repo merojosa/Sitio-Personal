@@ -21,6 +21,12 @@
 					<a class="nav-link" href="/career.shtml">Software Engineering</a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="/objectives.shtml">Objectives</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/hobbies.shtml">Hobbies</a>
+				</li>
+				<li class="nav-item">
 					<a class="nav-link" href="/about.shtml">About</a>
 				</li>
 				<li class="nav-item">
