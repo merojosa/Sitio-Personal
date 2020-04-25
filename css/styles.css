@@ -110,3 +110,7 @@ footer > div {
 .nav-link {
     outline: none !important;
 }
+
+.nav-link:hover {
+    text-decoration: underline;
+}
