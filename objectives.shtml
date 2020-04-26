@@ -1,4 +1,4 @@
-<!--#include virtual="/includes/top.shtml" -->
+<!--#include virtual="includes/top.shtml" -->
 <section class="seccion-no-centrada">
     <h1>What are my objectives?</h1>
 
@@ -38,4 +38,4 @@
     </div>
 </div>
 
-<!--#include virtual="/includes/bottom.shtml" -->
+<!--#include virtual="includes/bottom.shtml" -->

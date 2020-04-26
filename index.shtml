@@ -1,4 +1,4 @@
-<!--#include virtual="/includes/top.shtml" -->
+<!--#include virtual="includes/top.shtml" -->
 
 <section>
 	<h1 class="texto-inicio">
@@ -45,4 +45,4 @@
 
 </div>
 
-<!--#include virtual="/includes/bottom.shtml" -->
+<!--#include virtual="includes/bottom.shtml" -->

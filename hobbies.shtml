@@ -1,4 +1,4 @@
-<!--#include virtual="/includes/top.shtml" -->
+<!--#include virtual="includes/top.shtml" -->
 
 <section class="seccion-no-centrada">
 
@@ -31,4 +31,4 @@
 </section>
 
 
-<!--#include virtual="/includes/bottom.shtml" -->
+<!--#include virtual="includes/bottom.shtml" -->

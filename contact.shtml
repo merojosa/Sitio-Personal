@@ -1,4 +1,4 @@
-<!--#include virtual="/includes/top.shtml" -->
+<!--#include virtual="includes/top.shtml" -->
 
 <section class="seccion-contacto">
 	<h1>
@@ -12,4 +12,4 @@
 	</div>
 </section>
 
-<!--#include virtual="/includes/bottom.shtml" -->
+<!--#include virtual="includes/bottom.shtml" -->
