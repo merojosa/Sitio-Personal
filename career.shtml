@@ -1,3 +1,46 @@
 <!--#include virtual="includes/top.shtml" -->
 
+
+<div class="contenedor">
+
+	<div class="fila">
+		<div class="seccion-no-color">
+            <h2 class="titulo-seccion">Why Software Engineering?</h2>
+            <a href="career/why-software-engineering.shtml">
+                <img class="imagen-carrera" src="media/SE.svg">
+            </a>
+		</div>
+	</div>
+	
+	<div class="fila">
+		<div class="seccion-celeste">
+            <h2 class="titulo-seccion">Favorite courses</h2>
+            <a href="career/favorite-courses.shtml">
+                <img class="imagen-carrera" src="media/Coding.svg">
+            </a>
+		</div>
+	</div>
+
+	<div class="fila">
+		<div class="seccion-morado-oscuro">
+			<h2 class="titulo-seccion">My profesors and classmates</h2>
+            <a href="career/profesors-classmates.shtml">
+                <img class="imagen-carrera" src="media/Professor.svg">
+            </a>
+
+		</div>
+    </div>
+    
+    <div class="fila">
+		<div class="seccion-morado">
+            <h2 class="titulo-seccion">Downloads</h2>
+            <a href="career/downloads.shtml">
+                <img class="imagen-carrera" src="media/Download.svg">
+            </a>
+		</div>
+	</div>
+
+</div>
+
+
 <!--#include virtual="includes/bottom.shtml" -->

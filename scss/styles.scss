@@ -103,8 +103,11 @@ footer > div {
   fill: white;
 }
 
-.seccion-contacto {
+.seccion-no-color {
+  margin: 0 auto;
   text-align: center;
+  padding-top: $padding_seccion;
+  padding-bottom: $padding_seccion;
 }
 
 .correo-contacto {
@@ -127,6 +130,7 @@ footer > div {
 
 .nav-link {
   outline: none !important;
+  font-size: 18px;
 }
 
 .nav-link:hover {
@@ -174,4 +178,8 @@ footer > div {
 
 .navbar-toggler {
   outline: none !important;
+}
+
+.imagen-carrera {
+  width: 18em;
 }
