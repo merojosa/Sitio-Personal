@@ -1,20 +1,25 @@
 body {
-  background: #3A4856; }
+  background: #3A4856;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color: white;
-  font-weight: bolder; }
+  font-weight: bolder;
+}
 
 p {
   color: white !important;
-  font-size: 20px; }
+  font-size: 20px;
+}
 
 .navbar-personalizado {
   margin-bottom: 2em;
-  background-color: lightslategray !important; }
+  background-color: lightslategray !important;
+}
 
 .nav-link {
-  color: white !important; }
+  color: white !important;
+}
 
 .foto {
   width: 20%;
@@ -23,72 +28,89 @@ p {
   margin-right: auto;
   margin-bottom: 1.5em;
   border-radius: 1em;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 .texto-inicio {
   text-align: center;
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+}
 
 footer {
   /*Centrar el texto horizontal y verticalmente*/
   display: flex;
   align-items: center;
   justify-content: center;
+
   background: lightslategray;
-  height: 80px; }
+  height: 80px;
+}
 
 footer > div {
-  color: white; }
+  color: white;
+}
 
 .seccion-morado {
   background-color: #9A7F8B;
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+}
 
 .seccion-celeste {
   background-color: #8DAFCE;
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+}
 
 .seccion-morado-oscuro {
   background-color: #674D59;
   text-align: center;
   padding-top: 50px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+}
 
 .container {
   width: 100% !important;
-  max-width: 100% !important; }
+  max-width: 100% !important;
+}
 
 .titulo-seccion {
   text-align: center;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+}
 
 .mail-icon {
-  fill: white; }
+  fill: white;
+}
 
 .seccion-contacto {
-  text-align: center; }
+  text-align: center;
+}
 
 .correo-contacto {
   font-size: 24px;
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+}
 
 .seccion-about {
   margin-left: 30px;
   margin-right: 30px;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+}
 
 .flex-wrapper {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  justify-content: space-between; }
+  justify-content: space-between
+}
 
 .nav-link {
-  outline: none !important; }
+  outline: none !important;
+}
 
 .nav-link:hover {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
