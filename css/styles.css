@@ -7149,6 +7149,9 @@ p {
   color: white !important;
   font-size: 20px; }
 
+a {
+  outline: none; }
+
 li {
   color: white !important; }
 
@@ -7298,4 +7301,5 @@ footer > div {
   outline: none !important; }
 
 .imagen-carrera {
-  width: 18em; }
+  width: 18em;
+  outline: none; }

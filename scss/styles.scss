@@ -17,6 +17,10 @@ p {
   font-size: 20px;
 }
 
+a {
+  outline: none;
+}
+
 li {
   color: white !important;
 }
@@ -182,4 +186,5 @@ footer > div {
 
 .imagen-carrera {
   width: 18em;
+  outline: none;
 }
