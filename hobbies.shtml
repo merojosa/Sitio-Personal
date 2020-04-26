@@ -1,4 +1,32 @@
 <!--#include virtual="/includes/top.shtml" -->
 
+<section class="seccion-no-centrada">
+
+    <div class="container">
+        <h1 class="mt-0">Variety is the spice of life</h1>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 text-center">
+            <div class="mt-5">
+                <img src="media/Masks.svg" width="100" height="100">
+                <p class="mb-0">Theater, Movies, Stanislavski, Tarantino, Lorca</p>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 text-center">
+            <div class="mt-5">
+                <img src="media/Writing.svg " width="100" height="100">
+                <p class="mb-0">Plays, Screenplays</p>
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 text-center">
+            <div class="mt-5">
+                <img src="media/Ball.svg " width="100" height="100">
+                <p class="mb-0">Liga Deportiva Alajuelense, Barcelona, Goalkeeper</p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+</section>
+
 
 <!--#include virtual="/includes/bottom.shtml" -->
