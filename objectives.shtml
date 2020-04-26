@@ -1,22 +1,41 @@
 <!--#include virtual="/includes/top.shtml" -->
+<section class="seccion-no-centrada">
+    <h1>What are my objectives?</h1>
 
+    <p>
+        The best adjective that can describe myself is "dreamer". I want a lot 
+        of things in the near and distant future, and believe it or not, I'm working as hard as I
+        can to accomplish them. Here's some of them that I hopefully will do it.
+    </p>
+</section>
 
 <div class="container">
 
-	<div class="row">
-		<div class="col seccion-celeste">
+    <div class="row">
+        <div class="col seccion-celeste">
             <h2 class="titulo-seccion">One year</h2>
 
-		</div>
-	</div>
-	
-	<div class="row">
-		<div class="col seccion-morado">
-            <h2 class="titulo-seccion">Five years</h2>
+            <ul class="lista-objetivos" >
+                <li>Software Engineering Degree</li>
+                <li>New computer</li>
+                <li>Job</li>
+            </ul>
+            
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col seccion-morado">
+            <h2 class="titulo-seccion">Ten years</h2>
 
-		</div>
-	</div>
+            <ul class="lista-objetivos" >
+                <li>Good postion</li>
+                <li>Car</li>
+                <li>House</li>
+                <li>Family</li>
+            </ul>
+        </div>
+    </div>
 </div>
-
 
 <!--#include virtual="/includes/bottom.shtml" -->

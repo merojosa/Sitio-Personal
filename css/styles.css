@@ -9,6 +9,9 @@ p {
   color: white !important;
   font-size: 20px; }
 
+li {
+  color: white !important; }
+
 .navbar-personalizado {
   margin-bottom: 2em;
   background-color: lightslategray !important; }
@@ -76,7 +79,7 @@ footer > div {
   font-size: 24px;
   margin-bottom: 2em; }
 
-.seccion-about {
+.seccion-no-centrada {
   margin-left: 30px;
   margin-right: 30px;
   margin-bottom: 25px; }
@@ -92,3 +95,10 @@ footer > div {
 
 .nav-link:hover {
   text-decoration: underline; }
+
+.lista-objetivos {
+  list-style-type: none;
+  text-align: left !important;
+  padding-left: 25% !important;
+  padding-right: 25% !important;
+  font-weight: bold; }
