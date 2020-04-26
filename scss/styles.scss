@@ -1,3 +1,8 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$padding_seccion: 50px;
+
+
 body {
   background: #3A4856;
 }
@@ -55,24 +60,33 @@ footer > div {
 }
 
 .seccion-morado {
+
+  @include make-col-ready();
+
   background-color: #9A7F8B;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: $padding_seccion;
+  padding-bottom: $padding_seccion;
 }
 
 .seccion-celeste {
+
+  @include make-col-ready();
+
   background-color: #8DAFCE;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: $padding_seccion;
+  padding-bottom: $padding_seccion;
 }
 
 .seccion-morado-oscuro {
+
+  @include make-col-ready();
+
   background-color: #674D59;
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: $padding_seccion;
+  padding-bottom: $padding_seccion;
 }
 
 .container {
@@ -125,4 +139,35 @@ footer > div {
   padding-left: 25% !important;
   padding-right: 25% !important;
   font-weight: bold;
+}
+
+.contenedor {
+  @include make-container();
+}
+
+.fila {
+  @include make-row();
+}
+
+.columna-hobby {
+  @include make-col-ready();
+
+  @include media-breakpoint-up(lg) {
+    @include make-col(4); // Convertir a col-lg-4
+  }
+
+  text-align: center !important;
+
+}
+
+@media screen and (max-width: 991px) {
+  
+  .columna-hobby {
+    @include make-col-ready();
+  
+    @include media-breakpoint-up(md) {
+      @include make-col(12); // Convertir a col-md-12
+    }
+  
+  }
 }

@@ -11,10 +11,10 @@
 	</h1>
 </section>
 
-<div class="container">
+<div class="contenedor">
 
-	<div class="row">
-		<div class="col seccion-morado">
+	<div class="fila">
+		<div class="seccion-morado">
 				<h2 class="titulo-seccion">Technology</h2>
 
 				<img src="media/github.png" width="30%">
@@ -23,8 +23,8 @@
 		</div>
 	</div>
 	
-	<div class="row">
-		<div class="col seccion-celeste">
+	<div class="fila">
+		<div class="seccion-celeste">
 			<h2 class="titulo-seccion">Acting</h2>
 
 			<img src="media/escena.jpg" width="25%">
@@ -34,8 +34,8 @@
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col seccion-morado-oscuro">
+	<div class="fila">
+		<div class="seccion-morado-oscuro">
 			<h2 class="titulo-seccion">Writing</h2>
 
 			<img src="media/portada-guion.PNG" width="50%">
