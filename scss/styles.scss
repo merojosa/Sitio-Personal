@@ -275,6 +275,16 @@ footer > div {
   margin-right: 1em;
 }
 
+@media screen and (max-width: 991px) {
+  .icono-objetivo {
+    display: block;
+    margin: 0 auto;
+  } 
+  .objetivo {
+    text-align: center;
+  }
+}
+
 .objetivo {
   margin-top: 1.6em;
   font-size: 20px;
