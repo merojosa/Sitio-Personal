@@ -7,21 +7,21 @@
         <div class="fila">
             <div class="columna-hobby">
                 <div class="mt-5">
-                    <img src="media/Masks.svg" width="100" height="100">
+                    <img class="imagen-hobby" src="media/Masks.svg" alt="Masks">
                     <p>Theater, Movies</p>
                 </div>
             </div>
 
             <div class="columna-hobby">
                 <div class="mt-5">
-                    <img src="media/Writing.svg " width="100" height="100">
+                    <img class="imagen-hobby" src="media/Writing.svg" alt="Writing">
                     <p>Plays, Screenplays</p>
                 </div>
             </div>
 
             <div class="columna-hobby">
                 <div class="mt-5">
-                    <img src="media/Ball.svg " width="100" height="100">
+                    <img class="imagen-hobby" src="media/Ball.svg" alt="Ball">
                     <p>Liga Deportiva Alajuelense, Barcelona, Goalkeeper</p>
                 </div>
             </div>

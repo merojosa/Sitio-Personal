@@ -7213,12 +7213,12 @@ footer > div {
   padding-top: 50px;
   padding-bottom: 50px; }
 
-.seccion-celeste {
+.seccion-verde {
   position: relative;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
-  background-color: #8DAFCE;
+  background-color: #8cb49c;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px; }
@@ -7353,3 +7353,14 @@ footer > div {
     width: 70%; }
   .imagen-actuacion-2 {
     width: 80%; } }
+
+.imagen-hobby {
+  width: 160px; }
+
+.icono-objetivo {
+  width: 80px;
+  margin-right: 1em; }
+
+.objetivo {
+  margin-top: 1.6em;
+  font-size: 20px; }

@@ -7,16 +7,16 @@
 		<div class="seccion-no-color">
             <h2 class="titulo-seccion">Why Software Engineering?</h2>
             <a href="why-software-engineering.shtml">
-                <img class="imagen-carrera" src="media/SE.svg">
+                <img class="imagen-carrera" src="media/SE.svg" alt="Software Engineering">
             </a>
 		</div>
 	</div>
 	
 	<div class="fila">
-		<div class="seccion-celeste">
+		<div class="seccion-verde">
             <h2 class="titulo-seccion">Favorite courses</h2>
             <a href="favorite-courses.shtml">
-                <img class="imagen-carrera" src="media/Coding.svg">
+                <img class="imagen-carrera" src="media/Coding.svg" alt="Coding">
             </a>
 		</div>
 	</div>
@@ -25,7 +25,7 @@
 		<div class="seccion-morado-oscuro">
 			<h2 class="titulo-seccion">My profesors and classmates</h2>
             <a href="profesors-classmates.shtml">
-                <img class="imagen-carrera" src="media/Professor.svg">
+                <img class="imagen-carrera" src="media/Professor.svg" alt="Professors and classmates">
             </a>
 
 		</div>
@@ -35,7 +35,7 @@
 		<div class="seccion-morado">
             <h2 class="titulo-seccion">Downloads</h2>
             <a href="downloads.shtml">
-                <img class="imagen-carrera" src="media/Download.svg">
+                <img class="imagen-carrera" src="media/Download.svg" alt="Downloads">
             </a>
 		</div>
 	</div>

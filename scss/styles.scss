@@ -104,11 +104,11 @@ footer > div {
   padding-bottom: $padding_seccion;
 }
 
-.seccion-celeste {
+.seccion-verde {
 
   @include make-col-ready();
 
-  background-color: #8DAFCE;
+  background-color: #8cb49c;
   text-align: center;
   padding-top: $padding_seccion;
   padding-bottom: $padding_seccion;
@@ -264,4 +264,18 @@ footer > div {
   .imagen-actuacion-2 {
     width: 80%;
   }
+}
+
+.imagen-hobby {
+  width: 160px;
+}
+
+.icono-objetivo {
+  width: 80px;
+  margin-right: 1em;
+}
+
+.objetivo {
+  margin-top: 1.6em;
+  font-size: 20px;
 }

@@ -12,13 +12,28 @@
 <div class="container">
 
     <div class="row">
-        <div class="col seccion-celeste">
+        <div class="col seccion-verde">
             <h2 class="titulo-seccion">One year</h2>
 
             <ul class="lista-objetivos" >
-                <li>Software Engineering Degree</li>
-                <li>New computer</li>
-                <li>Job</li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/Graduation.svg"></img> 
+                    </span>
+                    Software Engineering Degree
+                </li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/Laptop.svg"></img> 
+                    </span>
+                    New computer
+                </li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/Portfolio.svg"></img> 
+                    </span>
+                    Job
+                </li>
             </ul>
             
         </div>
@@ -29,10 +44,32 @@
             <h2 class="titulo-seccion">Ten years</h2>
 
             <ul class="lista-objetivos" >
-                <li>Good position</li>
-                <li>Car</li>
-                <li>House</li>
-                <li>Family</li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/Job.svg"></img> 
+                    </span>
+
+                    Good position
+                </li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/car.svg"></img> 
+                    </span>
+                    Car
+                </li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/House.svg"></img> 
+                    </span>
+                    House
+                </li>
+                <li class="objetivo">
+                    <span>
+                        <img class="icono-objetivo" src="media/Family.svg"></img> 
+                    </span>
+
+                    Family
+                </li>
             </ul>
         </div>
     </div>

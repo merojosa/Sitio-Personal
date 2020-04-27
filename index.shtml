@@ -4,7 +4,7 @@
 	<h1 class="texto-inicio">
 		Jose Andrés Mejías Rojas
 	</h1>
-	<img class="foto" src="media/Foto.jpg">
+	<img class="foto" src="media/Foto.jpg" alt="Jose Andrés photo">
 
 	<h1 class="texto-inicio">
 		Show, don't tell
@@ -17,19 +17,25 @@
 		<div class="seccion-morado">
 			<h2 class="titulo-seccion">Technology</h2>
 
-			<img class="imagen-tecnologia" src="media/github.png">
-			<img class="imagen-tecnologia" src="media/programathon.jpg">
+			<a href="https://github.com/JoseAndresMejiasRojas/">
+				<img class="imagen-tecnologia" src="media/github.png" alt="GitHub">
+			</a>
+			<img class="imagen-tecnologia" src="media/programathon.jpg" alt="Programathon">
 
 		</div>
 	</div>
 	
 	<div class="fila">
-		<div class="seccion-celeste">
+		<div class="seccion-verde">
 			<h2 class="titulo-seccion">Acting</h2>
 
-			<img class="imagen-actuacion-1" src="media/escena.jpg">
-			<img class="imagen-actuacion-2" src="media/urba16.png">
-			<img class="imagen-actuacion-1" src="media/angustias.jpg">
+			<img class="imagen-actuacion-1" src="media/escena.jpg" alt="Theater scene">
+
+			<a href="https://urba16.com/">
+				<img class="imagen-actuacion-2" src="media/urba16.png" alt="Urbá 16 logo">
+			</a>
+
+			<img class="imagen-actuacion-1" src="media/angustias.jpg" alt="Theater photo - Jose Andrés">
 
 		</div>
 	</div>
@@ -38,7 +44,7 @@
 		<div class="seccion-morado-oscuro">
 			<h2 class="titulo-seccion">Writing</h2>
 
-			<img class="imagen-guion" src="media/portada-guion.PNG">
+			<img class="imagen-guion" src="media/portada-guion.PNG" alt="Screenplay">
 
 		</div>
 	</div>
