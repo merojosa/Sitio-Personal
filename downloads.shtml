@@ -1,4 +1,15 @@
 <!--#include virtual="includes/top.shtml" -->
 
+<section class="seccion-no-color">
+    <h1>
+        Downloads
+    </h1>
+
+    <a href="media/CV.pdf" download>
+        <img class="cv" src="media/cv.svg" alt="CV">
+    </a>
+
+</section>
+
 
 <!--#include virtual="includes/bottom.shtml" -->

@@ -7311,3 +7311,7 @@ footer > div {
 .lista {
   list-style-type: none;
   padding: 0; }
+
+.cv {
+  width: 300px;
+  margin-top: 2em; }
