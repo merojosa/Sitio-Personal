@@ -7145,6 +7145,10 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
   font-weight: bolder; }
 
+@media screen and (max-width: 991px) {
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center; } }
+
 p {
   color: white !important;
   font-size: 20px; }
@@ -7173,7 +7177,14 @@ li {
 
 @media screen and (max-width: 991px) {
   .foto {
-    width: 80%; } }
+    width: 70%; } }
+
+.imagen-guion {
+  width: 30%; }
+
+@media screen and (max-width: 991px) {
+  .imagen-guion {
+    width: 70%; } }
 
 .texto-inicio {
   text-align: center;
