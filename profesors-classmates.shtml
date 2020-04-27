@@ -1,4 +1,42 @@
 <!--#include virtual="includes/top.shtml" -->
 
+<section class="seccion-no-centrada">
+    <h1>Professors and classmates</h1>
+    
+    <p>
+        Thank God I've come across awesome people in my school. Here's a list of cool people.
+    </p>
+
+    <div>
+        <h2>
+            Professors
+        </h2>
+
+        <ul class="lista" >
+            <li>Alexandra Martinez - Databases</li>
+            <li>Christian Quesada - Software Engineering</li>
+            <li>Elzbieta Malinowski - Advanced Databases</li>
+            <li>Gustavo López - Software Design</li>
+            <li>Rodrigo Bartels - Probability and Statistics</li>
+        </ul>
+        
+    </div>
+
+    <div>
+        <h2>
+            Classmates
+        </h2>
+
+        <ul class="lista" >
+            <li>Felipe Carmona</li>
+            <li>Fabián Rojas</li>
+            <li>Jennifer Villalobos</li>
+            <li>Sebastián Chaves</li>
+            <li>Hellen Fernández</li>
+        </ul>
+
+    </div>
+</section>
+
 
 <!--#include virtual="includes/bottom.shtml" -->
