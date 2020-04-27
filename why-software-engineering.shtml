@@ -1,4 +1,23 @@
 <!--#include virtual="includes/top.shtml" -->
 
+<section class="seccion-no-centrada">
+    <h1>Why did I choose Software Engineering?</h1>
+
+    <h2 class="lambda">𝛌</h2>
+
+    <p>
+        This greek letter (lambda) is one of the reasons why I chose Software Engineering. When I was
+        7 years old more or less, I played a video game called Half-Life. Its logo was a lambda by the way
+        and I really loved that video game, it was incredible. I think that's the reason why my interest
+        for computers started.
+    </p>
+
+    <p>
+       Of course there are more reasons: I love creating things and the challenges that I've
+       faced everyday, but Half-Life was the
+       first one... and thank God my cousin allowed me to play it.
+    </p>
+</section>
+
 
 <!--#include virtual="includes/bottom.shtml" -->
