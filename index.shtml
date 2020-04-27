@@ -1,6 +1,6 @@
 <!--#include virtual="includes/top.shtml" -->
 
-<section>
+<section class="seccion-no-color">
 	<h1 class="texto-inicio">
 		Jose Andrés Mejías Rojas
 	</h1>
@@ -38,7 +38,7 @@
 		<div class="seccion-morado-oscuro">
 			<h2 class="titulo-seccion">Writing</h2>
 
-			<img src="media/portada-guion.PNG" width="50%">
+			<img class="foto" src="media/portada-guion.PNG">
 
 		</div>
 	</div>
