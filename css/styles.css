@@ -7332,3 +7332,24 @@ footer > div {
 .cv {
   width: 300px;
   margin-top: 2em; }
+
+.imagen-tecnologia {
+  width: 30%; }
+
+.imagen-actuacion-1 {
+  width: 25%; }
+
+.imagen-actuacion-2 {
+  width: 40%;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  margin-left: 1em;
+  margin-right: 1em; }
+
+@media screen and (max-width: 991px) {
+  .imagen-tecnologia {
+    width: 70%; }
+  .imagen-actuacion-1 {
+    width: 70%; }
+  .imagen-actuacion-2 {
+    width: 80%; } }

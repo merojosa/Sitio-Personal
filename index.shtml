@@ -15,10 +15,10 @@
 
 	<div class="fila">
 		<div class="seccion-morado">
-				<h2 class="titulo-seccion">Technology</h2>
+			<h2 class="titulo-seccion">Technology</h2>
 
-				<img src="media/github.png" width="30%">
-				<img src="media/programathon.jpg" width="30%">
+			<img class="imagen-tecnologia" src="media/github.png">
+			<img class="imagen-tecnologia" src="media/programathon.jpg">
 
 		</div>
 	</div>
@@ -27,9 +27,9 @@
 		<div class="seccion-celeste">
 			<h2 class="titulo-seccion">Acting</h2>
 
-			<img src="media/escena.jpg" width="25%">
-			<img src="media/logo-urba.png" width="40%">
-			<img src="media/angustias.jpg" width="25%">
+			<img class="imagen-actuacion-1" src="media/escena.jpg">
+			<img class="imagen-actuacion-2" src="media/urba16.png">
+			<img class="imagen-actuacion-1" src="media/angustias.jpg">
 
 		</div>
 	</div>
