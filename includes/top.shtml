@@ -7,7 +7,7 @@
 
 	<link rel="stylesheet" href="css/styles.css" />
 </head>
-<body>
+<body class="flex-wrapper">
 
 <!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-light navbar-personalizado">
