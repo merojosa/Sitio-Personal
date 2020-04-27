@@ -1,4 +1,18 @@
 <!--#include virtual="includes/top.shtml" -->
 
+<section class="seccion-no-centrada">
+    <h1>My favorite courses</h1>
+
+    <ul class="lista" >
+        <li>Software Engineering</li>
+        <li>Databases</li>
+        <li>Advanced Databases</li>
+        <li>Human-Computer Interaction</li>
+        <li>Software Design</li>
+        <li>Compilers</li>
+
+    </ul>
+</section>
+
 
 <!--#include virtual="includes/bottom.shtml" -->
